@@ -1,0 +1,7 @@
+Automation\APIAutomation\CoinDeskAPI.class
+Automation\UiPages\SearchResultsPage.class
+Automation\UiPages\BaseClass.class
+Automation\APIAutomation\ResponseValidator.class
+Automation\UiPages\ItemPage.class
+Automation\UiPages\CartPage.class
+Automation\UiPages\HomePage.class

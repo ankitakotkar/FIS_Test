@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-09T17:07:48 IST" name="FIS_Automation" finished-at="2025-01-09T17:08:08 IST" duration-ms="20734">
+    <groups>
+    </groups>
+    <test started-at="2025-01-09T17:07:48 IST" name="APIAutomation" finished-at="2025-01-09T17:07:51 IST" duration-ms="3319">
+      <class name="Automation.CoinDeskAPITest">
+        <test-method signature="testBpiEndPoint()[pri:0, instance:Automation.CoinDeskAPITest@6379eb]" started-at="2025-01-09T17:07:48 IST" name="testBpiEndPoint" finished-at="2025-01-09T17:07:51 IST" duration-ms="3287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBpiEndPoint -->
+      </class> <!-- Automation.CoinDeskAPITest -->
+    </test> <!-- APIAutomation -->
+    <test started-at="2025-01-09T17:07:51 IST" name="UIAAutomation" finished-at="2025-01-09T17:08:08 IST" duration-ms="17393">
+      <class name="Automation.AddToCartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Automation.AddToCartTest@443118b0]" started-at="2025-01-09T17:07:51 IST" name="setup" finished-at="2025-01-09T17:07:53 IST" duration-ms="2247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyItemCanBeAddedToCart()[pri:0, instance:Automation.AddToCartTest@443118b0]" started-at="2025-01-09T17:07:53 IST" name="verifyItemCanBeAddedToCart" finished-at="2025-01-09T17:08:08 IST" duration-ms="14894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyItemCanBeAddedToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Automation.AddToCartTest@443118b0]" started-at="2025-01-09T17:08:08 IST" name="tearDown" finished-at="2025-01-09T17:08:08 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Automation.AddToCartTest -->
+    </test> <!-- UIAAutomation -->
+  </suite> <!-- FIS_Automation -->
+</testng-results>
